@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\SendMesByIp\SendMesByIp\bin\Debug\SendMesByIp.exe.config
+C:\Users\Administrator\source\repos\SendMesByIp\SendMesByIp\bin\Debug\SendMesByIp.exe
+C:\Users\Administrator\source\repos\SendMesByIp\SendMesByIp\bin\Debug\SendMesByIp.pdb
+C:\Users\Administrator\source\repos\SendMesByIp\SendMesByIp\obj\Debug\SendMesByIp.Properties.Resources.resources
+C:\Users\Administrator\source\repos\SendMesByIp\SendMesByIp\obj\Debug\SendMesByIp.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\SendMesByIp\SendMesByIp\obj\Debug\SendMesByIp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SendMesByIp\SendMesByIp\obj\Debug\SendMesByIp.exe
+C:\Users\Administrator\source\repos\SendMesByIp\SendMesByIp\obj\Debug\SendMesByIp.pdb
+C:\Users\Administrator\source\repos\SendMesByIp\SendMesByIp\obj\Debug\SendMesByIp.Client.resources
+C:\Users\Administrator\source\repos\SendMesByIp\SendMesByIp\obj\Debug\SendMesByIp.Server.resources
+C:\Users\Administrator\source\repos\SendMesByIp\SendMesByIp\obj\Debug\SendMesByIp.Form1.resources
